@@ -6,10 +6,10 @@
 
 I am 24 years old and by training I am a veterinarian. Unfortunately, after studying I had a compulsory job for 2 years in the state veterinary service and I worked a lot at the computer, even though I was a veterinarian. I have seen bad design and bad veterinary related websites in my country and now I want to become a frontend developer to fix this and make nice and user friendly websites.
 
+* 🤝  I'm open for work.
 * 🌍  I'm based in Brest, Belarus.
 * ✉️  You can contact me at [sogo246@gmail.com](mailto:sogo246@gmail.com) and [my Telegram](https://t.me/hlope_c)
-* 🧠  I'm learning React and Typescript
-* 🤝  I'm open to collaborating on interesting projects.
+* 🧠  I'm learning React and Typescript.
 
 ### My projects
 * [Online Store](https://github.com/SogoHlopec/Online_Store) (teamwork, SPA, HTML, CSS, TS, Webpack)
