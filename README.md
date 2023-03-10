@@ -43,4 +43,6 @@ I am 24 years old and by training I am a veterinarian. Unfortunately, after stud
 
 ### Badges
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SogoHlopec)](https://github.com/anuraghazra/github-readme-stats)
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/SogoHlopec"><img src="https://github-readme-stats.vercel.app/api?username=SogoHlopec&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SogoHlopec's GitHub stats" /></a>
