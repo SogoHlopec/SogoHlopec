@@ -40,9 +40,3 @@ I am 24 years old and by training I am a veterinarian. Unfortunately, after stud
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/Sogo#9213" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://t.me/hlope_c" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/256/telegram-app--v1.png" width="32" height="32" /></a> <a href="https://www.github.com/SogoHlopec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yura-deineka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/SogoHlopec"><img src="https://github-readme-stats.vercel.app/api?username=SogoHlopec&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SogoHlopec's GitHub stats" /></a>
