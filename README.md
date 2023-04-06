@@ -4,7 +4,9 @@
 ## I am junior frontend-developer
 -------------------------
 
-I am 24 years old and by training I am a veterinarian. Unfortunately, after studying I had a compulsory job for 2 years in the state veterinary service and I worked a lot at the computer, even though I was a veterinarian. I have seen bad design and bad veterinary related websites in my country and now I want to become a frontend developer to fix this and make nice and user friendly websites.
+Hello! I am a junior front-end developer who completed a front-end course at The Rolling Scopes School and continues to improve my skills. During the training, I gained 10 months of development experience, created several projects.
+
+I am a veterinarian by education and for 2 years I worked in the state veterinary service. During my last job, I had the opportunity to communicate with many people, build good relationships, for 3 months I was in charge of the department and I had 3 specialists in my subordination. I also worked a lot at the computer and processed veterinary documents through the Internet GIS AITS system. While working, I often came across bad design and bad websites related to veterinary medicine in my country, and I decided to become a front-end developer to make quality and user-friendly websites!
 
 * 🤝  I'm open for work.
 * 🌍  I'm based in Brest, Belarus.
