@@ -9,7 +9,7 @@ I completed a front-end course at The Rolling Scopes School and continues to imp
 I am a veterinarian by education and for 2 years I worked in the state veterinary service. During my last job, I had the opportunity to communicate with many people, build good relationships, for 3 months I was in charge of the department and I had 3 specialists in my subordination. I also worked a lot at the computer and processed veterinary documents through the Internet GIS AITS system. While working, I often came across bad design and bad websites related to veterinary medicine in my country, and I decided to become a front-end developer to make quality and user-friendly websites!
 
 * 🤝  I'm open for work. My [CV-EN](https://drive.google.com/file/d/1vgU_l1V6aFf1cs_SNGULTdp8WunLeBpG/view) and [CV-RU](https://drive.google.com/file/d/1S5lrustoNqdvG9fvGILtjEpPE-gaEsZb/view).
-* 🌍  I'm based in Brest, Belarus.
+* 🌍  I'm based in Minsk, Belarus.
 * ✉️  You can contact me at [sogo246@gmail.com](mailto:sogo246@gmail.com) and [my Telegram](https://t.me/hlope_c)
 * 🧠  I'm learning React and Typescript.
 
@@ -46,4 +46,4 @@ I am a veterinarian by education and for 2 years I worked in the state veterinar
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Sogo#9213" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://t.me/hlope_c" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/256/telegram-app--v1.png" width="32" height="32" /></a> <a href="https://www.github.com/SogoHlopec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yura-deineka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://t.me/hlope_c" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/256/telegram-app--v1.png" width="32" height="32" /></a> <a href="https://www.github.com/SogoHlopec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yura-deineka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Sogo#9213" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
