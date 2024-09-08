@@ -8,7 +8,7 @@ I took a front-end course at The Rolling Scopes school. I then learned PHP, CMS 
 
 **I have 1 year of self-development experience in JavaScript + Typescript and 1 year of commercial development experience in PHP, ModX/Wordpress, JavaScript, MySQL.**
 
-I also developed parsers in PHP, set up cron runs for them. Created ajax handlers, various snippets and plugins for ModX and Wordpress. I imported data from Notion API, Google sheets API + worked with Google Places API, GEO ip API; customized hosting for sites. A little bit worked with OpenCart and Joomla.
+I developed and finalized sites on ModX and Wordpress. I also developed PHP parsers, set up cron for them. I created ajax handlers, various snippets and plugins for ModX and Wordpress. Imported data from Notion API, Google sheets API + worked with Google Places API, GEO ip API; customized hosting for sites. Worked a little with OpenCart and Joomla.
 
 * 🌍  I'm based in Minsk, Belarus.
 * ✉️  You can contact me at [sogo246@gmail.com](mailto:sogo246@gmail.com) and [my Telegram](https://t.me/hlope_c)
