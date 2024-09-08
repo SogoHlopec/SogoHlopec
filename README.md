@@ -14,6 +14,7 @@ I am a veterinarian by education and for 2 years I worked in the state veterinar
 * 🧠  I'm learning React and Typescript.
 
 ### My projects
+* [Minesweeper](https://github.com/SogoHlopec/portfolio/tree/minesweeper) (HTML, SCSS, JS, Webpack)
 * [Virtual keyboard](https://github.com/SogoHlopec/virtual-keyboard) (HTML, SCSS, JS, Webpack)
 * [Shelter](https://github.com/SogoHlopec/Shelter) (HTML, SCSS, JS, Webpack)
 * [CSS Bayan](https://github.com/SogoHlopec/cssBayan) (HTML, CSS)
