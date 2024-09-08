@@ -1,19 +1,20 @@
 # Hi 👋 My name is Yura Daineka
 =============================
 
-## I am junior frontend-developer
+## I am a Full-stack Web developer
 -------------------------
 
-I completed a front-end course at The Rolling Scopes School and continues to improve my skills. I have **1 year experience** in JS development. During the training I collected a portfolio of projects.
+I took a front-end course at The Rolling Scopes school. I then learned PHP, MySQL, CMS ModX + Wordpress on my own and continue to learn technology and improve my skills.
 
-I am a veterinarian by education and for 2 years I worked in the state veterinary service. During my last job, I had the opportunity to communicate with many people, build good relationships, for 3 months I was in charge of the department and I had 3 specialists in my subordination. I also worked a lot at the computer and processed veterinary documents through the Internet GIS AITS system. While working, I often came across bad design and bad websites related to veterinary medicine in my country, and I decided to become a front-end developer to make quality and user-friendly websites!
+**I have 1 year of self-development experience in JavaScript + Typescript and 1 year of commercial development experience in PHP, MySQL, ModX/Wordpress, JavaScript.**
 
-* 🤝  I'm open for work. My [CV-EN](https://drive.google.com/file/d/1vgU_l1V6aFf1cs_SNGULTdp8WunLeBpG/view) and [CV-RU](https://drive.google.com/file/d/1S5lrustoNqdvG9fvGILtjEpPE-gaEsZb/view).
+I also developed parsers in PHP, set up cron runs for them. Created ajax handlers, various snippets and plugins for ModX and Wordpress. I imported data from Notion API, Google sheets API + worked with Google Places API, GEO ip API; customized hosting for sites. A little bit worked with OpenCart and Joomla.
+
 * 🌍  I'm based in Minsk, Belarus.
 * ✉️  You can contact me at [sogo246@gmail.com](mailto:sogo246@gmail.com) and [my Telegram](https://t.me/hlope_c)
-* 🧠  I'm learning React and Typescript.
 
 ### My projects
+* [News API](https://github.com/SogoHlopec/portfolio/tree/migration-newip-to-ts) (HTML, CSS, JS, TS, Webpack)
 * [Minesweeper](https://github.com/SogoHlopec/portfolio/tree/minesweeper) (HTML, SCSS, JS, Webpack)
 * [Virtual keyboard](https://github.com/SogoHlopec/virtual-keyboard) (HTML, SCSS, JS, Webpack)
 * [Shelter](https://github.com/SogoHlopec/Shelter) (HTML, SCSS, JS, Webpack)
@@ -46,4 +47,4 @@ I am a veterinarian by education and for 2 years I worked in the state veterinar
 
 ### Socials
 
-<p align="left"> <a href="https://t.me/hlope_c" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/256/telegram-app--v1.png" width="32" height="32" /></a> <a href="https://www.github.com/SogoHlopec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yura-deineka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Sogo#9213" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://t.me/hlope_c" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/256/telegram-app--v1.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yura-deineka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Sogo#9213" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
