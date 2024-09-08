@@ -14,6 +14,7 @@ I am a veterinarian by education and for 2 years I worked in the state veterinar
 * 🧠  I'm learning React and Typescript.
 
 ### My projects
+* [Shelter](https://github.com/SogoHlopec/Shelter) (HTML, SCSS, JS, Webpack)
 * [CSS Bayan](https://github.com/SogoHlopec/cssBayan) (HTML, CSS)
 * [Online Store](https://github.com/SogoHlopec/Online_Store) (teamwork, SPA, HTML, CSS, TS, Webpack)
 * [Songbird](https://github.com/SogoHlopec/Songbird) This is a quiz app for recognizing birds by their voices. (HTML, CSS, JS, Webpack)
