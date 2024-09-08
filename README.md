@@ -4,9 +4,9 @@
 ## I am a Full-stack Web developer
 -------------------------
 
-I took a front-end course at The Rolling Scopes school. I then learned PHP, MySQL, CMS ModX + Wordpress on my own and continue to learn technology and improve my skills.
+I took a front-end course at The Rolling Scopes school. I then learned PHP, CMS ModX + Wordpress, MySQL on my own and continue to learn technology and improve my skills.
 
-**I have 1 year of self-development experience in JavaScript + Typescript and 1 year of commercial development experience in PHP, MySQL, ModX/Wordpress, JavaScript.**
+**I have 1 year of self-development experience in JavaScript + Typescript and 1 year of commercial development experience in PHP, ModX/Wordpress, JavaScript, MySQL.**
 
 I also developed parsers in PHP, set up cron runs for them. Created ajax handlers, various snippets and plugins for ModX and Wordpress. I imported data from Notion API, Google sheets API + worked with Google Places API, GEO ip API; customized hosting for sites. A little bit worked with OpenCart and Joomla.
 
