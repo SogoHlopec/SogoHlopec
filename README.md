@@ -19,7 +19,7 @@ Remote work as a sole developer in a team of up to 4 people, development/amendme
 ### Skills
 - **Frontend**: HTML/HTML5, Pug, CSS/CSS3, BEM, Flexbox, Grid, SCSS, Adaptive/Responsive design, JavaScript, TypeScript, AJAX, Libraries (jQuery, Swiper, lightbox2, inputmask.dependencyLib, photoswipe, MiniMasonry, Datatables).  
 - **Backend**: PHP (7.4+, Cron, cURL, Composer, DiDOM, phpspreadsheet, GoogleApi, Laximo SDK), Node.js (16+, CLI, Nest.js, GraphQL & WebSocket, Jest), Concepts (OOP fundamentals, HTTP, REST API, JWT auth).  
-- **CMS**: ModX Revolution (main CMS), WordPress, CMS Evolution (basics).  
+- **CMS**: ModX Revolution (main CMS), WordPress, basics CMS Evolution.  
 - **Databases & ORM**: SQL, MySQL, PostgreSQL (with Prisma ORM).  
 - **Build Tools & IDEs**: Webpack, npm, ESLint, Prettier, VS Code.  
 - **APIs & Integrations**: Google Sheets, Notion, YandexMap, Google Places, Telegram, NBRB, Laximo, JSON, XML, CSV.  
