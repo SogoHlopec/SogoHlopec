@@ -4,7 +4,6 @@
 I am a developer with experience working on frontend and backend. I have experience with CMS such as ModX Revolution and WordPress, as well as various APIs and development tools. I have worked with 22+ commercial websites and developed more than 20 training projects.
 
 * 🌍 I'm based in Minsk, Belarus.
-* 💬 My languages: English A2 ([EF SET](https://cert.efset.org/YjjaDw)), Russian/Belarusian
 * ✉️ My contacts: [yuradeineka04@gmail.com](mailto:yuradeineka04@gmail.com) - [Telegram](https://t.me/hlope_c) - [LinkedIn](https://www.linkedin.com/in/yura-daineka/)
 
 ### Experience
@@ -40,6 +39,6 @@ Remote work as a sole developer in a team of up to 4 people, development/amendme
 - **[Minesweeper](https://github.com/SogoHlopec/portfolio/tree/minesweeper)**: Classic Minesweeper game.
 
 #### TOP 3 completed courses
-- **[RS School: Node.js Course EN 2024 Q3](https://rs.school/courses/nodejs)**: My [certificate](https://app.rs.school/certificate/0atn8vt1).  
+- **[RS School: Node.js Course EN 2024 Q3](https://rs.school/courses/nodejs)** My [certificate](https://app.rs.school/certificate/0atn8vt1).  
 - **[RS School: JavaScript / Front-end RU 2023Q1 Stage 1-2](https://rs.school/courses/javascript-ru)**.  
-- **[RS School: JavaScript / Front-end Pre-school RU 2022Q2 Stage 0](https://rs.school/courses/javascript-preschool-ru)**: My [certificate](https://app.rs.school/certificate/xc1jcw36).
+- **[RS School: JavaScript / Front-end Pre-school RU 2022Q2 Stage 0](https://rs.school/courses/javascript-preschool-ru)** My [certificate](https://app.rs.school/certificate/xc1jcw36).
