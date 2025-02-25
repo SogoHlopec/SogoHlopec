@@ -1,8 +1,14 @@
 # Hi 👋 My name is Yura Daineka.
-## I'm a Full-stack web developer
+## Full-Stack Web Developer | 1.5 years of commercial experience
 
-I am a developer with experience working on frontend and backend. I have experience with CMS such as ModX Revolution and WordPress, as well as various APIs and development tools. I have worked with 22+ commercial websites and developed more than 20 training projects.
+I develop websites from scratch and improve existing ones. Experience in creating interfaces from design mockups, customizing integrations and working with APIs (Google Sheets, Google Place, Yandex Map, Telegram, Notion, NBRB, Laximo).  
 
+✅ Worked with 22+ commercial websites and developed 20+ training projects  
+✅ Commercial experience with HTML, CSS/SCSS, JavaScript, Pug, Webpack, PHP, MySQL, CMS ModX (main cms), WordPress, data parsing (HTML, JSON, XML)  
+✅ Constantly upgrading skills and learning new technologies  
+ 
+
+* 🚀 Open to new opportunities and projects
 * 🌍 I'm based in Minsk, Belarus.
 * ✉️ My contacts: [yuradeineka04@gmail.com](mailto:yuradeineka04@gmail.com) - [Telegram](https://t.me/hlope_c) - [LinkedIn](https://www.linkedin.com/in/yura-daineka/)
 
@@ -10,7 +16,7 @@ I am a developer with experience working on frontend and backend. I have experie
 - **December 2024 - Present... Self-employed/freelance Fullstack web-developer**  
 Website development on CMS ModX Revolution, integration with Laximo autocatalog.  
 - **September 2023 - December 2024 Realist.by Fullstack web-developer**  
-Remote work as a sole developer in a team of up to 4 people, development/amendments of websites on CMS ModX Revolution, WordPress.  
+Remote work as a sole developer in a team of up to 4 people, development of websites on CMS ModX Revolution, WordPress, creation of data parsers and integration with various APIs.  
 - **September 2024 - December 2024 RSS student (Node.js course)**  
 - **May 2022 - August 2023 RSS student (Frontend course)**  
 - **October 2021 - September 2023 Self-study programming (Frontend)**
