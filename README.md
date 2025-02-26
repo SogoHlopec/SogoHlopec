@@ -1,5 +1,5 @@
 # Hi 👋 My name is Yura Daineka.
-## Full-Stack Web Developer | 1.5 years of commercial experience
+## Full-Stack Web Developer | 1.5+ years of commercial experience
 
 I develop websites from scratch and improve existing ones. Experience in creating interfaces from design mockups, customizing integrations and working with APIs (Google Sheets, Google Place, Yandex Map, Telegram, Notion, NBRB, Laximo).  
 
@@ -7,7 +7,6 @@ I develop websites from scratch and improve existing ones. Experience in creatin
 ✅ Commercial experience with HTML, CSS/SCSS, JavaScript, Pug, Webpack, PHP, MySQL, CMS ModX (main cms), WordPress, data parsing (HTML, JSON, XML)  
 ✅ Also a learning experience with Typescript, Node.js, Nest.js, GraphQL, WebSocket, Jest, PostgreSQL, Prisma, Docker + Docker compose  
 ✅ Constantly upgrading skills and learning new technologies  
- 
 
 * 🚀 Open to new opportunities and projects
 * 🌍 I'm based in Minsk, Belarus.
