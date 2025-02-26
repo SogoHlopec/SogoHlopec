@@ -46,5 +46,5 @@ Remote work as a sole developer in a team of up to 4 people, development of webs
 
 #### TOP 3 completed courses
 - **[RS School: Node.js Course EN 2024 Q3](https://rs.school/courses/nodejs)** My [certificate](https://app.rs.school/certificate/0atn8vt1).  
-- **[RS School: JavaScript / Front-end RU 2023Q1 Stage 1-2](https://rs.school/courses/javascript-ru)**.  
-- **[RS School: JavaScript / Front-end Pre-school RU 2022Q2 Stage 0](https://rs.school/courses/javascript-preschool-ru)** My [certificate](https://app.rs.school/certificate/xc1jcw36).
+- **[RS School: JavaScript / Front-end RU 2023 Q1 Stage 1-2](https://rs.school/courses/javascript-ru)**.  
+- **[RS School: JavaScript / Front-end Pre-school RU 2022 Q2 Stage 0](https://rs.school/courses/javascript-preschool-ru)** My [certificate](https://app.rs.school/certificate/xc1jcw36).
