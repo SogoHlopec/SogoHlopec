@@ -13,9 +13,9 @@ I develop websites from scratch and improve existing ones. Experience in creatin
 * ✉️ My contacts: [yuradeineka04@gmail.com](mailto:yuradeineka04@gmail.com) - [Telegram](https://t.me/hlope_c) - [LinkedIn](https://www.linkedin.com/in/yura-daineka/)
 
 ### Experience
-- **December 2024 - Present... Self-employed/freelance Fullstack web-developer**  
+- **December 2024 - Present... Self-employed/freelance Fullstack web developer**  
 Website development on CMS ModX Revolution, integration with Laximo autocatalog.  
-- **September 2023 - December 2024 Realist.by Fullstack web-developer**  
+- **September 2023 - December 2024 Realist.by Fullstack web developer**  
 Remote work as a sole developer in a team of up to 4 people, development of websites on CMS ModX Revolution, WordPress, creation of data parsers and integration with various APIs.  
 - **September 2024 - December 2024 RSS student (Node.js course)**  
 - **May 2022 - August 2023 RSS student (Frontend course)**  
