@@ -5,6 +5,7 @@ I develop websites from scratch and improve existing ones. Experience in creatin
 
 ✅ Worked with 22+ commercial websites and developed 20+ training projects  
 ✅ Commercial experience with HTML, CSS/SCSS, JavaScript, Pug, Webpack, PHP, MySQL, CMS ModX (main cms), WordPress, data parsing (HTML, JSON, XML)  
+✅ Also a learning experience with Typescript, Node.js, Nest.js, GraphQL, WebSocket, Jest, PostgreSQL, Prisma, Docker + Docker compose  
 ✅ Constantly upgrading skills and learning new technologies  
  
 
