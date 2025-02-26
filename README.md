@@ -10,7 +10,8 @@ I develop websites from scratch and improve existing ones. Experience in creatin
 
 * 🚀 Open to new opportunities and projects
 * 🌍 I'm based in Minsk, Belarus.
-* ✉️ My contacts: [yuradeineka04@gmail.com](mailto:yuradeineka04@gmail.com) - [Telegram](https://t.me/hlope_c) - [LinkedIn](https://www.linkedin.com/in/yura-daineka/)
+* ✉️ My contacts: [yuradeineka04@gmail.com](mailto:yuradeineka04@gmail.com) - [Telegram](https://t.me/hlope_c) - [LinkedIn](https://www.linkedin.com/in/yura-daineka/)  
+* 🖨 My CV [EN](https://drive.google.com/file/d/1y6-o39eunnmZZYZaIIZ4IyD1_PDM6nEU/view) or [RU](https://drive.google.com/file/d/1UA8ikKqaa6DWIsoi38T3ewUAHZX6DDNd/view)  
 
 ### Experience
 - **December 2024 - Present... Self-employed/freelance Fullstack web developer**  
